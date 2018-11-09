@@ -1,0 +1,22 @@
+.grid {
+  display: inline-block;
+  width: 100%;
+  max-width: 500px;
+}
+
+.grid a{
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+}
+
+.grid a>div{
+  background: #eee;
+  margin: 5px;
+  padding: 10px 0;
+  height: 100%;
+}
+
+.grid a>div >h4{
+  margin: 0;
+}

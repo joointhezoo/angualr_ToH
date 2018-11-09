@@ -14,3 +14,13 @@ body, input[type="text"], button {
   color: #888;
 }
 
+app-messages {
+  display: inline-block;
+  padding: 0;
+}
+
+nav > a {
+  margin-right: 15px;
+  font-size:20px;
+  color: #607d8b;
+}

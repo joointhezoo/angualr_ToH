@@ -1,0 +1,34 @@
+.detail {
+  background: #efefef;
+  padding: 10px;
+  width: 300px;
+}
+
+.detail h2{
+  margin-top: 0;
+}
+
+.detail > div{
+  padding: 10px 0;
+}
+
+
+button{
+  float:left;
+  background: none;
+  border: 1px solid darkslategrey;
+  font-size: 15px;
+  padding: 5px 8px;
+  cursor: pointer;
+}
+
+.goBackBtn{
+  float:right;
+}
+
+.btnWrap{
+  width: 320px;
+  hegiht: 30px;
+  display: inline-block;
+  margin: 10px 0;
+}

@@ -1,0 +1,45 @@
+ul{list-style: none; padding:0; float:left; width: 350px; margin:0}
+li{background: #eee; padding: 0; margin-bottom: 3px; border-radius: 5px; max-width: 300px;}
+li.selected, li:hover{ background: #cfd8dc; }
+.badge {
+  display: inline-block;
+  color: white;
+  padding: 12px 12px 0;
+  background-color: #607D8B;
+  position: relative;
+  height: 1.8em;
+  width: 20px;
+  text-align: right;
+  margin-right: .8em;
+  border-radius: 4px 0 0 4px;
+}
+
+app-hero-detail{
+  float: left;
+  margin-right: 50px;
+}
+
+.addNewHeroBox{
+  font-size: 14px;
+  max-width: 300px;
+  margin-bottom: 5px;
+}
+
+.addNewHeroBox input{
+  width: 45%;
+}
+
+.delete{
+  float:right;
+  color: white;
+  padding: 12px 12px ;
+  background-color: #808080;
+  position: relative;
+  height: 100%;
+  width: 40px;
+  border-radius: 0 4px 4px 0;
+  border:none;
+}
+.delete:hover{
+  background-color: #6c6c6c;
+}

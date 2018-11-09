@@ -1,0 +1,22 @@
+.search-result {
+  padding: 0;
+  margin: 0;
+  width: 250px;
+}
+.search-result li:first-child{
+  border-top : 1px solid #888;
+}
+.search-result li {
+  border : 1px solid #888;
+  border-top: none;
+  width:100%;
+  padding: 10px 0 10px 5px;
+  background-color: white;
+  cursor: pointer;
+  list-style-type: none;
+}
+
+#search-box{
+  width: 248px;
+  padding: 10px 0 10px 5px;
+}
