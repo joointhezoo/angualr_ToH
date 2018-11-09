@@ -12,9 +12,10 @@ They should focus on presenting data and delegate data access to a service.
 Services are a great way to share information among classes that don't know each other.
 
 
-#### dashboard (home)
+
+### dashboard (home)
 ![dashboard](./img/dashboard.PNG)
 
 
-#### x-man
+### x-man
 ![xman](./img/xman.PNG)
