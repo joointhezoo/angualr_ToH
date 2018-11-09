@@ -24,3 +24,11 @@ nav > a {
   font-size:20px;
   color: #607d8b;
 }
+
+
+app-messages{
+  width: 100%;
+  max-width: 500px;
+  padding: 20px 20px 40px 5px;
+  background: #fcfbb2;
+}

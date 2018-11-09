@@ -2,21 +2,24 @@
   display: inline-block;
   width: 100%;
   max-width: 500px;
+  margin-bottom: 20px;
 }
 
 .grid a{
   display: inline-block;
   width: 25%;
   text-align: center;
+  text-decoration: none;
 }
 
 .grid a>div{
-  background: #eee;
+  height: 50px;
   margin: 5px;
   padding: 10px 0;
-  height: 100%;
+  background-size: 100% !important;
 }
 
 .grid a>div >h4{
   margin: 0;
+  color: white;
 }

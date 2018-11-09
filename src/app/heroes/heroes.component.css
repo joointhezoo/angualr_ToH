@@ -1,4 +1,4 @@
-ul{list-style: none; padding:0; float:left; width: 350px; margin:0}
+ul{list-style: none; padding:0; float:left; width: 350px; margin:0 0 20px;}
 li{background: #eee; padding: 0; margin-bottom: 3px; border-radius: 5px; max-width: 300px;}
 li.selected, li:hover{ background: #cfd8dc; }
 .badge {
